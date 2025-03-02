@@ -25,6 +25,7 @@ pip install -r requirments.txt
 ```
 データフレームダウンロード(私のGPUの涙の結晶)
 https://huggingface.co/datasets/szkr/ILEMB/resolve/main/databese_1700k.parquet
+
 data/databese_1700k.parquetに設置
 
 CUDAが使用できる場合torchのインストールを工夫してください
