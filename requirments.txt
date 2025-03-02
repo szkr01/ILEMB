@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas==2.2.3
+pyarrow==18.1.0
+numpy==1.26.3
+faiss-cpu==1.7.4
+Pillow
+torch
+torchvision
+timm
+typing-extensions
+python-multipart
