@@ -36,7 +36,7 @@ ILEMBは、大量の画像をベクトルとして格納し、クエリベクト
     pip install -r requirements.txt
     ```
 2.  **データフレームのダウンロード:**
-    [https://huggingface.co/datasets/szkr/ILEMB/resolve/main/database_1700k.parquet](https://huggingface.co/datasets/szkr/ILEMB/resolve/main/database_1700k.parquet)
+    [こちら](https://huggingface.co/datasets/szkr/ILEMB/blob/main/databese_1700k.parquet)
     から `database_1700k.parquet` をダウンロードし、`data/` ディレクトリに配置してください。
 3.  **CUDA (GPU) の設定 (オプション):**
     *   CUDAが利用可能な場合は、PyTorchのインストールをCUDA対応版に変更してください。これにより、特徴量抽出が大幅に高速化されます。
