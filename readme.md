@@ -8,12 +8,14 @@
 - Vue3+Typescript
 
 ## Installation
+### データベース
+https://huggingface.co/datasets/szkr/ILEMB/tree/main
+
 ### Colabの場合
 Google Colab環境で動作するノートブックを作成しました。
 Colab_ILEMB.ipynbを読み込み、ノートブック内の説明に従ってください。
 
 170万データセットは無料Colab環境では動きません。
-使いたければローカルで動かしてください。
 
 
 ### ローカルの場合
